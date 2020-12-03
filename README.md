@@ -1,2 +1,2 @@
 # GenericSocketLobby
-A simple wrapper for socket io
+socket.io wrapper for creating simple lobby systems
